@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Store</string>
+    <string name="image_on_boarding">Image On Boarding</string>
+    <string name="welcome_to_store">Welcome to \n our store</string>
+    <string name="desc_welcome">Ger your groceries in as fast as one hour</string>
+    <string name="get_started">Get Started</string>
+    <string name="image_slider">Image Slider</string>
+    <string name="see_all">See All</string>
+    <string name="add">Add</string>
+    <string name="image_product">Image Product</string>
+    <string name="oops_no_data">Ooops! No Data</string>
+    <string name="image_content_empty">Image Content Empty</string>
+</resources>
